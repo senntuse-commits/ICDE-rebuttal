@@ -1,0 +1,33 @@
+# Build products
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# Python and editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.idea/
+
+# Locally generated datasets and experiment output
+experiments/data/
+experiments/raw/
+experiments/results/
+experiments/figures/
+experiments/tmp/
+*.tar
+*.tar.gz
+
+# Logs and transient files
+*.log
+*.tmp
+NUL
+NUL.exe
