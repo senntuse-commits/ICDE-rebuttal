@@ -6,8 +6,8 @@ TEE-based Encrypted Databases*.
 This repository accompanies the original submission. The full version below
 includes the additional experimental results, with new material shown in blue.
 
-- [Full version with additional results](Parallel_Oblivious_Acyclic_Joins_for_TEE_based_Encrypted_Databases__Full_Version_1.pdf)
-- [Original submission repository](https://github.com/senntuse-commits/Parallel_Oblivious_Acyclic_Joins_for_TEE-based_Encrypted_Databases)
+- **Paper PDF:** [Full version with additional results](Parallel_Oblivious_Acyclic_Joins_for_TEE_based_Encrypted_Databases__Full_Version_1.pdf)
+- **Original submission:** [Code repository](https://github.com/senntuse-commits/Parallel_Oblivious_Acyclic_Joins_for_TEE-based_Encrypted_Databases)
 
 ## Main additions
 
